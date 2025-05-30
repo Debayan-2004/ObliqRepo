@@ -27,8 +27,8 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>33, Old Office Tilla, Sabroom, Tripura</li>
-                <li>Phone: 03812 326455</li>
-                <li>Email: support@obliq.in</li>
+                <li>Phone: 0381 232 6355</li>
+                <li>Email: support@obliq.co.in</li>
             </ul>
         </div>
 
